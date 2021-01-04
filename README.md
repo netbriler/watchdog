@@ -1,5 +1,5 @@
 # How to install?
-`https://github.com/netBriler/watchdog`
+`git clone https://github.com/netBriler/watchdog`
 
 `cd watchdog`
 
