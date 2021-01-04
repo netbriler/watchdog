@@ -1,2 +1,1 @@
 watchdog
-PyQt5
